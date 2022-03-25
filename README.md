@@ -1,1 +1,1 @@
-# HTML-Chapter-2-Activty-3
+# HTML-Chapter-3-Exercises
